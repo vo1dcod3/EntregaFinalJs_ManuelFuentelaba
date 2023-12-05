@@ -1,28 +1,28 @@
-/* Estilo para el navbar */
+
 .navbar {
-    background-color: #007bff; /* Fondo azul brillante para el navbar */
+    background-color: #007bff; 
 }
 
-/* Estilo para los enlaces del navbar */
+
 .navbar-light .navbar-nav .nav-link {
-    color: #ffffff; /* Enlaces blancos */
+    color: #ffffff; /
 }
 
-/* Estilo para el botón de agregar al carrito */
+
 .btn-primary {
-    background-color: #343a40; /* Gris oscuro para el botón */
+    background-color: #343a40; 
     border-color: #343a40;
-    color: #ffffff; /* Texto blanco */
+    color: #ffffff; 
 }
 
-/* Estilo para el botón de agregar al carrito al pasar el mouse */
+
 .btn-primary:hover {
-    background-color: #1d2124; /* Gris más oscuro al pasar el mouse */
+    background-color: #1d2124; 
     border-color: #1d2124;
 }
 
-/* Estilo para el footer */
+
 footer {
-    background-color: #1d2124; /* Gris oscuro para el footer */
-    color: #343a40; /* Texto blanco en el footer */
+    background-color: #1d2124; 
+    color: #343a40; 
 }
