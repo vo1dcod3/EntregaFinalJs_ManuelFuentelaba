@@ -1,0 +1,12 @@
+[
+    { "id": 1, "nombre": "Netflix", "precio": 9.90 },
+    { "id": 2, "nombre": "CrunchyRoll", "precio": 8.99 },
+    { "id": 3, "nombre": "Disney+", "precio": 7.99 },
+    { "id": 4, "nombre": "HBO Max", "precio": 6.99 },
+    { "id": 5, "nombre": "Apple TV+", "precio": 5.99 },
+    { "id": 6, "nombre": "Amazon Prime Video", "precio": 8.00 },
+    { "id": 7, "nombre": "Hulu", "precio": 7.99 },
+    { "id": 8, "nombre": "Paramount+", "precio": 6.49 },
+    { "id": 9, "nombre": "Peacock", "precio": 5.00 },
+    { "id": 10, "nombre": "YouTube Premium", "precio": 11.99 }
+]
