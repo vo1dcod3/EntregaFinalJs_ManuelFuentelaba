@@ -131,12 +131,11 @@ document.addEventListener('DOMContentLoaded', async () => {
         formularioSuscripcion.addEventListener("submit", async (event) => {
             event.preventDefault();
 
-            if (validarSuscripcion()) {
-                modalSuscripcion.style.display = "none";
-                alert("Gracias por suscribirte.");
-            } else {
-                alert("Por favor, ingresa un correo electrónico válido.");
-            }
+            const correoSuscripcion = document.getElementById("correoSuscripcion").value;
+
+            modalSuscripcion.style.display = "none";
+
+            alert(`Gracias por suscribirte. Recibirás noticias en ${correoSuscripcion}`);
         });
     }
 
